@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 | DatasetCovid -19|Exploraty Dataset covid -19| https://github.com/bambadij/covid-19|
+| 2 | Unsupervised Learning |A tutorial on unsupervised learning | https://github.com/bambadij/UnsupervisedLearned |
+| 3 |  Metric of regression  |  Discovery MAE,MSE,RMSE | https://github.com/bambadij/Metric_Regression|
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
